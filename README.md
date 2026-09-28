@@ -9,7 +9,7 @@
 
 **28 项资料整合 · 4 张机制图解 · 中文系统笔记 · Python 最小自检**
 
-[📖 在线阅读](LLM_Inference_Serving_Organized_Notes.md) · [📓 Jupyter Notebook](LLM_Inference_Serving_Organized_Notes.ipynb) · [🌐 HTML 阅读版](LLM_Inference_Serving_Organized_Notes.html)
+[📓 打开 Jupyter Notebook](LLM_Inference_Serving_Organized_Notes.ipynb)
 
 </div>
 
@@ -86,13 +86,9 @@
 
 </details>
 
-## 选择你的阅读方式
+## 开始阅读
 
-| 你想做什么 | 打开哪个文件 |
-| :--- | :--- |
-| **直接在 GitHub 阅读** | [Markdown 笔记](LLM_Inference_Serving_Organized_Notes.md) |
-| **边读边运行最小自检** | [Jupyter Notebook](LLM_Inference_Serving_Organized_Notes.ipynb) |
-| **下载后用浏览器阅读** | [HTML 阅读版](LLM_Inference_Serving_Organized_Notes.html) |
+打开 [Jupyter Notebook](LLM_Inference_Serving_Organized_Notes.ipynb) 阅读笔记；需要运行最小自检时，下载文件并在 JupyterLab 或 VS Code 中打开。
 
 Notebook 已内嵌四张图片，单独下载也能查看配图。最小自检只依赖 Python 标准库，检查时间口径、KV 字节、分页边界与前缀上下文反例；阅读无需下载模型或启动 GPU 服务。
 
@@ -114,6 +110,6 @@ Notebook 已内嵌四张图片，单独下载也能查看配图。最小自检�
 
 **理解机制 → 定位瓶颈 → 固定条件 → 验证收益**
 
-[开始阅读笔记 →](LLM_Inference_Serving_Organized_Notes.md)
+[开始阅读 Notebook →](LLM_Inference_Serving_Organized_Notes.ipynb)
 
 </div>
